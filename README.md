@@ -1,2 +1,3 @@
 # Hello-world
-Premier test
+Bonjour.
+Ceci est mon premier test sur GitHub  
